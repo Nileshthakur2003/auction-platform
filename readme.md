@@ -12,7 +12,7 @@ Welcome to the Online Auction Platform! This project is built using the MERN sta
 
 
 ## Project Structure
-
+```bash
 /online-auction-platform
 ├── /backend
 │   ├── /config
