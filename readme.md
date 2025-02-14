@@ -12,7 +12,7 @@ Welcome to the Online Auction Platform! This project is built using the MERN sta
 
 
 ## Project Structure
-```bash
+``
 /online-auction-platform
 ├── /backend
 │   ├── /config
@@ -55,43 +55,40 @@ Welcome to the Online Auction Platform! This project is built using the MERN sta
 │   │   ├── index.js
 │   │   └── package.json
 └── README.md
-```
+``
 
 
 
 ## Installation
 
 **1. Clone the repository:**
-   ```bash
+``
    git clone https://github.com/your-username/online-auction-platform.git
    cd online-auction-platform
-```
+``
 
 **2. Set up the backend:**
-    ```bash
+    ``
     cd backend
     npm install
-```
-
+``
 
 **3. Create a .env file in the backend directory with the following content:**
-    ```bash
+``
     MONGO_URI=your_mongo_db_uri
     JWT_SECRET=your_jwt_secret
-```
+``
 **4. Set up the frontend:**
-    ```bash
+``
     cd ../frontend
     npm install
-```
+``
 
 
 ##**Usage**
 
-Navigate to http://localhost:3000 to access the application.
-
-Register a new account or log in with an existing account.
-
-Participate in auctions, place bids, and manage your account.
+-Navigate to http://localhost:3000 to access the application.
+-Register a new account or log in with an existing account.
+-Participate in auctions, place bids, and manage your account.
 
 
