@@ -65,25 +65,25 @@ Welcome to the Online Auction Platform! This project is built using the MERN sta
    ```bash
    git clone https://github.com/your-username/online-auction-platform.git
    cd online-auction-platform
-    ```
+```
 
 **2. Set up the backend:**
     ```bash
     cd backend
     npm install
-    ```
+```
 
 
 **3. Create a .env file in the backend directory with the following content:**
     ```bash
     MONGO_URI=your_mongo_db_uri
     JWT_SECRET=your_jwt_secret
-    ```
+```
 **4. Set up the frontend:**
     ```bash
     cd ../frontend
     npm install
-    ```
+```
 
 
 ##**Usage**
