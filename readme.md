@@ -15,6 +15,6 @@ An online platform to host and participate in auctions, where users can bid on v
 
 1. Clone the repository:
 ```sh
-   git clone https://github.com/yourusername/auction-platform.git
+   git clone https://github.com/Nileshthakur2003/auction-platform.git
    cd auction-platform
 ```
